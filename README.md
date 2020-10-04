@@ -13,4 +13,4 @@ Given a record of every transaction during a three month period, calculate the r
 · Check solution into GitHub
 
 
-Screenshot of output is present in src/image.png
+Screenshot of output is present in src/image1.png
